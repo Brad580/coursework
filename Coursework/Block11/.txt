@@ -1,0 +1,19 @@
+Creaating github repository
+
+from github
+ click proile pic
+ click repositories 
+ click  new
+
+choose self as owner
+give repository an name
+click green code botton 
+then copy code 
+in terminal make sure youre in the repostiory you want the repository to live
+
+
+From Command Line 
+Click on profile picture on top right
+click your repositories
+click new button
+make youself owner
